@@ -24,6 +24,8 @@ from exampleproject import Example
 example = Example()
 example.run()
 ```
+## Link to the URL
+[Demystify DNA Sequencing with Machine Learning](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
 
 ## Documentation
 For detailed documentation, visit [ExampleProject Docs](https://exampleproject.com/docs).
