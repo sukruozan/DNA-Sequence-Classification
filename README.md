@@ -78,52 +78,11 @@ Confusion Matrix - All Species | Confusion Matrix - Human | Confusion Matrix - C
 
 *Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences. The outcomes from the experiments performed by using `brotli` compressor is selected for depiction.*
 
-
-
-## Usage
-Here's a quick example:
-```python
-from exampleproject import Example
-example = Example()
-example.run()
-```
-## Link to the URL
-[Demystify DNA Sequencing with Machine Learning](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
-
-## Documentation
-For detailed documentation, visit [ExampleProject Docs](https://exampleproject.com/docs).
-
-## Requirements
-- Python 3.6+
-- Other dependencies listed in `requirements.txt`
-
-## Installation
-The libraries can be installed manually. But if you want you can try with `requirements.txt` file shared in this repository.
-```bash
-pip install -r requirements.txt
-```
-
-## Contributing
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for more information.
-
-## Code of Conduct
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
-
-## License
-ExampleProject is licensed under the [MIT License](LICENSE).
-
 ## Support
 If you need help or have a question, raise an issue or contact me at sukruozan@gmail.com.
 
 ## Contributors
 - [Sukru Ozan](https://sukruozan.com)
-
-
-## Tables for Comparison or Data
-| Feature       | Description                |
-|---------------|----------------------------|
-| Feature 1     | Detailed description here. |
-| Feature 2     | Detailed description here. |
 
 
 
