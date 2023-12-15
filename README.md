@@ -59,6 +59,19 @@ git clone https://github.com/sukruozan/dna-sequence-classification.git
 | LZMA      | 1.000               | 1.000                | 1.000             | 1.000               | 0.936          | 0.937           | 0.936        | 0.936          | 0.988        | 0.989         | 0.988      | 0.988        |
 
 
+
+![Confusion Matrix for the Entire Dataset](URL_to_confusion_matrix_all_the_species.png "Confusion Matrix for the Entire Dataset. This matrix provides an overview of the classifier's performance on the complete dataset, illustrating the accuracy of classification across all categories.")
+
+![Confusion Matrix for the Entire Dataset](./brotli/confusion_matrix_all_the_species.png "Confusion Matrix for the Entire Dataset. This matrix provides an overview of the classifier's performance on the complete dataset, illustrating the accuracy of classification across all categories.")
+
+![Human DNA](./brotli/confusion_matrix_human.png "Human DNA")
+![Chimpanzee DNA](./brotli/confusion_matrix_chimp.png "Chimpanzee DNA")
+![Dog DNA](./brotli/confusion_matrix_dog.png "Dog DNA")
+
+*Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences.*
+
+
+
 ## Usage
 Here's a quick example:
 ```python
