@@ -1,0 +1,378 @@
+Compression algorithm: gzip
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.682 
+precision = 0.730 
+recall = 0.682 
+f1 = 0.698
+Compression algorithm: gzip
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.532 
+precision = 0.539 
+recall = 0.532 
+f1 = 0.528
+Compression algorithm: gzip
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.471 
+precision = 0.456 
+recall = 0.471 
+f1 = 0.448
+Compression algorithm: snappy
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.500 
+precision = 0.626 
+recall = 0.500 
+f1 = 0.555
+Compression algorithm: snappy
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.553 
+precision = 0.605 
+recall = 0.553 
+f1 = 0.547
+Compression algorithm: snappy
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.294 
+precision = 0.365 
+recall = 0.294 
+f1 = 0.284
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.500 
+precision = 0.792 
+recall = 0.500 
+f1 = 0.580
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.617 
+precision = 0.773 
+recall = 0.617 
+f1 = 0.621
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.294 
+precision = 0.361 
+recall = 0.294 
+f1 = 0.263
+Compression algorithm: lz4
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.409 
+precision = 0.499 
+recall = 0.409 
+f1 = 0.437
+Compression algorithm: lz4
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.447 
+precision = 0.428 
+recall = 0.447 
+f1 = 0.429
+Compression algorithm: lz4
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.235 
+precision = 0.261 
+recall = 0.235 
+f1 = 0.231
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.545 
+precision = 0.537 
+recall = 0.545 
+f1 = 0.496
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.596 
+precision = 0.699 
+recall = 0.596 
+f1 = 0.546
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.529 
+precision = 0.445 
+recall = 0.529 
+f1 = 0.431
+Compression algorithm: bz2
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.409 
+precision = 0.492 
+recall = 0.409 
+f1 = 0.437
+Compression algorithm: bz2
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.447 
+precision = 0.522 
+recall = 0.447 
+f1 = 0.445
+Compression algorithm: bz2
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.588 
+precision = 0.775 
+recall = 0.588 
+f1 = 0.561
+Compression algorithm: lzma
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.727 
+precision = 0.801 
+recall = 0.727 
+f1 = 0.744
+Compression algorithm: lzma
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.574 
+precision = 0.602 
+recall = 0.574 
+f1 = 0.564
+Compression algorithm: lzma
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.412 
+precision = 0.506 
+recall = 0.412 
+f1 = 0.444
+Compression algorithm: gzip
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.682 
+precision = 0.730 
+recall = 0.682 
+f1 = 0.698
+Compression algorithm: gzip
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.532 
+precision = 0.539 
+recall = 0.532 
+f1 = 0.528
+Compression algorithm: gzip
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.471 
+precision = 0.456 
+recall = 0.471 
+f1 = 0.448
+Compression algorithm: snappy
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.500 
+precision = 0.626 
+recall = 0.500 
+f1 = 0.555
+Compression algorithm: snappy
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.553 
+precision = 0.605 
+recall = 0.553 
+f1 = 0.547
+Compression algorithm: snappy
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.294 
+precision = 0.365 
+recall = 0.294 
+f1 = 0.284
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.500 
+precision = 0.792 
+recall = 0.500 
+f1 = 0.580
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.617 
+precision = 0.773 
+recall = 0.617 
+f1 = 0.621
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.294 
+precision = 0.361 
+recall = 0.294 
+f1 = 0.263
+Compression algorithm: lz4
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.409 
+precision = 0.499 
+recall = 0.409 
+f1 = 0.437
+Compression algorithm: lz4
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.447 
+precision = 0.428 
+recall = 0.447 
+f1 = 0.429
+Compression algorithm: lz4
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.235 
+precision = 0.261 
+recall = 0.235 
+f1 = 0.231
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.545 
+precision = 0.537 
+recall = 0.545 
+f1 = 0.496
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.596 
+precision = 0.699 
+recall = 0.596 
+f1 = 0.546
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.529 
+precision = 0.445 
+recall = 0.529 
+f1 = 0.431
+Compression algorithm: bz2
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.409 
+precision = 0.492 
+recall = 0.409 
+f1 = 0.437
+Compression algorithm: bz2
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.447 
+precision = 0.522 
+recall = 0.447 
+f1 = 0.445
+Compression algorithm: bz2
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.588 
+precision = 0.775 
+recall = 0.588 
+f1 = 0.561
+Compression algorithm: lzma
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.727 
+precision = 0.801 
+recall = 0.727 
+f1 = 0.744
+Compression algorithm: lzma
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.574 
+precision = 0.602 
+recall = 0.574 
+f1 = 0.564
+Compression algorithm: lzma
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.412 
+precision = 0.506 
+recall = 0.412 
+f1 = 0.444
+Compression algorithm: gzip
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.997 
+precision = 0.997 
+recall = 0.997 
+f1 = 0.997
+Compression algorithm: gzip
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.944 
+precision = 0.945 
+recall = 0.944 
+f1 = 0.944
+Compression algorithm: gzip
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.988 
+precision = 0.989 
+recall = 0.988 
+f1 = 0.988
+Compression algorithm: snappy
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: snappy
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.943 
+precision = 0.944 
+recall = 0.943 
+f1 = 0.943
+Compression algorithm: snappy
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.744 
+precision = 0.748 
+recall = 0.744 
+f1 = 0.745
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: lz4
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.997 
+precision = 0.997 
+recall = 0.997 
+f1 = 0.997
+Compression algorithm: lz4
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.944 
+precision = 0.946 
+recall = 0.944 
+f1 = 0.944
+Compression algorithm: lz4
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.817 
+precision = 0.829 
+recall = 0.817 
+f1 = 0.819
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.900 
+precision = 0.909 
+recall = 0.900 
+f1 = 0.901
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.963 
+precision = 0.967 
+recall = 0.963 
+f1 = 0.963
+Compression algorithm: bz2
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 0.985 
+precision = 0.985 
+recall = 0.985 
+f1 = 0.985
+Compression algorithm: bz2
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.893 
+precision = 0.894 
+recall = 0.893 
+f1 = 0.893
+Compression algorithm: bz2
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.963 
+precision = 0.966 
+recall = 0.963 
+f1 = 0.964
+Compression algorithm: lzma
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: lzma
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.936 
+precision = 0.937 
+recall = 0.936 
+f1 = 0.936
+Compression algorithm: lzma
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.988 
+precision = 0.989 
+recall = 0.988 
+f1 = 0.988

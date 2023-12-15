@@ -1,0 +1,19 @@
+Compression algorithm: gzip
+Time taken: 1735.81 seconds
+
+Compression algorithm: snappy
+Time taken: 1726.49 secondsCompression algorithm: brotli
+Time taken: 12551.60 seconds
+
+Compression algorithm: lz4
+Time taken: 1618.27 seconds
+
+Compression algorithm: zstandard
+Time taken: 1560.72 seconds
+
+Compression algorithm: bz2
+Time taken: 2657.35 seconds
+
+Compression algorithm: lzma
+Time taken: 9486.67 seconds
+
