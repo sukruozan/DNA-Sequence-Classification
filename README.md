@@ -32,6 +32,13 @@ git clone https://github.com/sukruozan/dna-sequence-classification.git
 | Transcription factor        | 6           | 521        | 1343  | 260  | **2124**  |
 
 
+Class Distribution - All Species | Class Distribution - Human | Class Distribution - Chimpanzee | Class Distribution - Dog
+:-----------------------------:|:------------------------:|:------------------------------:|:-----------------------:
+![All Species](./brotli/dist_all.png) | ![Human](./brotli/dist_human.png) | ![Chimpanzee](./brotli/dist_chimp.png) | ![Dog](./brotli/dist_dog.png)
+
+*Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences. The outcomes from the experiments performed by using `brotli` compressor is selected for depiction.*
+
+
 ### Comparison of Compression Algorithms in DNA Sequence Classification
 
 | Algorithm | Computation Time (seconds) | Accuracy | Recall | Precision | F1 Score |
