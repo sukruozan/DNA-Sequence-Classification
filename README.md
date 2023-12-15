@@ -60,13 +60,9 @@ git clone https://github.com/sukruozan/dna-sequence-classification.git
 
 
 
-![Confusion Matrix for the Entire Dataset](URL_to_confusion_matrix_all_the_species.png "Confusion Matrix for the Entire Dataset. This matrix provides an overview of the classifier's performance on the complete dataset, illustrating the accuracy of classification across all categories.")
-
-![Confusion Matrix for the Entire Dataset](./brotli/confusion_matrix_all_the_species.png "Confusion Matrix for the Entire Dataset. This matrix provides an overview of the classifier's performance on the complete dataset, illustrating the accuracy of classification across all categories.")
-
-![Human DNA](./brotli/confusion_matrix_human.png "Human DNA")
-![Chimpanzee DNA](./brotli/confusion_matrix_chimp.png "Chimpanzee DNA")
-![Dog DNA](./brotli/confusion_matrix_dog.png "Dog DNA")
+Confusion Matrix - All Species | Confusion Matrix - Human | Confusion Matrix - Chimpanzee | Confusion Matrix - Dog
+:-----------------------------:|:------------------------:|:------------------------------:|:-----------------------:
+![All Species](./brotli/confusion_matrix_all_the_species.png) | ![Human](./brotli/confusion_matrix_human.png) | ![Chimpanzee](./brotli/confusion_matrix_chimp.png) | ![Dog](./brotli/confusion_matrix_dog.png)
 
 *Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences.*
 
