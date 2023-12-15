@@ -3,11 +3,9 @@
 ## Overview
 ExampleProject is a comprehensive solution for [specific problem or functionality]. It's designed to be easy to use, yet powerful and flexible.
 
-## Features
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
-
+## Dataset
+- The original dataset can be reached at this Kaggle post [Demystify DNA Sequencing with Machine Learning](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
+- Here I combined all the data and created a single training and test datasets. For reproduction of the same results you can find the corresponding dataset in the folder [dataset](./dataset/) of this repository.
 ## Quick Start
 ```bash
 git clone https://github.com/sukruozan/dna-sequence-classification.git
@@ -64,7 +62,7 @@ Confusion Matrix - All Species | Confusion Matrix - Human | Confusion Matrix - C
 :-----------------------------:|:------------------------:|:------------------------------:|:-----------------------:
 ![All Species](./brotli/confusion_matrix_all_the_species.png) | ![Human](./brotli/confusion_matrix_human.png) | ![Chimpanzee](./brotli/confusion_matrix_chimp.png) | ![Dog](./brotli/confusion_matrix_dog.png)
 
-*Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences.*
+*Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences. The outcomes from the experiments performed by using `brotli` compressor is selected for depiction.*
 
 
 
