@@ -16,6 +16,27 @@ git clone https://github.com/yourusername/ExampleProject.git
 cd ExampleProject
 ./install.sh
 ```
+### Dataset Composition by Species
+
+| Species    | Train Size | Test Size |
+|------------|------------|-----------|
+| Chimpanzee | 1345       | 337       |
+| Human      | 3504       | 876       |
+| Dog        | 656        | 164       |
+| **Total**  | **5505**   | **1377**  |
+
+### Distribution of Gene Family Samples by Species
+
+| Gene Family                 | Class Label | Chimpanzee | Human | Dog  | **Total** |
+|-----------------------------|-------------|------------|-------|------|-----------|
+| G protein coupled receptors | 0           | 234        | 531   | 131  | **896**   |
+| Tyrosine kinase             | 1           | 185        | 534   | 75   | **794**   |
+| Tyrosine phosphatase        | 2           | 144        | 349   | 64   | **557**   |
+| Synthetase                  | 3           | 228        | 672   | 95   | **995**   |
+| Synthase                    | 4           | 261        | 711   | 135  | **1107**  |
+| Ion channel                 | 5           | 109        | 240   | 60   | **409**   |
+| Transcription factor        | 6           | 521        | 1343  | 260  | **2124**  |
+
 
 ## Usage
 Here's a quick example:
