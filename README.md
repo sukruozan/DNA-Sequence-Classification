@@ -3,6 +3,13 @@
 ## Overview
 ExampleProject is a comprehensive solution for [specific problem or functionality]. It's designed to be easy to use, yet powerful and flexible.
 
+## Environment
+Conda is a cross platform package and environment manager that installs and manages packages. You can use it to replicate the same environment by simply running the following:
+
+```bash
+conda env create -f environment.yml
+```
+
 ## Dataset
 - The original dataset can be reached at this Kaggle post [Demystify DNA Sequencing with Machine Learning](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
 - Here I combined all the data and created a single training and test datasets. For reproduction of the same results you can find the corresponding dataset in the folder [dataset](./dataset/) of this repository.
