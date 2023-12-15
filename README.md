@@ -1,6 +1,4 @@
-# Genom-Classification
-
-# Project Name: ExampleProject
+# Project Name: DNA Sequence Classification
 
 ## Overview
 ExampleProject is a comprehensive solution for [specific problem or functionality]. It's designed to be easy to use, yet powerful and flexible.
@@ -12,9 +10,7 @@ ExampleProject is a comprehensive solution for [specific problem or functionalit
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/ExampleProject.git
-cd ExampleProject
-./install.sh
+git clone https://github.com/sukruozan/dna-sequence-classification.git
 ```
 ### Dataset Composition by Species
 
@@ -81,8 +77,9 @@ For detailed documentation, visit [ExampleProject Docs](https://exampleproject.c
 - Other dependencies listed in `requirements.txt`
 
 ## Installation
+The libraries can be installed manually. But if you want you can try with `requirements.txt` file shared in this repository.
 ```bash
-pip install exampleproject
+pip install -r requirements.txt
 ```
 
 ## Contributing
@@ -95,17 +92,11 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community appr
 ExampleProject is licensed under the [MIT License](LICENSE).
 
 ## Support
-If you need help or have a question, raise an issue or contact us at support@exampleproject.com.
+If you need help or have a question, raise an issue or contact me at sukruozan@gmail.com.
 
 ## Contributors
-- [Jane Doe](https://github.com/janedoe)
-- [John Smith](https://github.com/johnsmith)
+- [Sukru Ozan](https://sukruozan.com)
 
-## Acknowledgments
-Thanks to all the contributors who have helped this project!
-
-## Changelog
-See [CHANGELOG.md](CHANGELOG.md) for a history of changes.
 
 ## Tables for Comparison or Data
 | Feature       | Description                |
@@ -113,8 +104,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a history of changes.
 | Feature 1     | Detailed description here. |
 | Feature 2     | Detailed description here. |
 
-## Screenshots
-![Example Screenshot](/path/to/screenshot.png)
+
 
 ## References
 1. Article or paper title. [Link](http://example.com)
