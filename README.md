@@ -88,18 +88,18 @@ If you need help or have a question, raise an issue or contact me at sukruozan@g
 
 To cite this work in your publications, use the following BibTeX entry:
 
-@article{YourPaperKey,
-title = {Your Paper Title},
-author = {Author, A. and Other, B.},
-journal = {Journal Name},
-volume = {vol},
-number = {num},
-pages = {xx--yy},
-year = {year},
-publisher = {Publisher},
-doi = {DOI},
-url = {URL}
-}
+
+## Citation
+
+    @article{ozan2024,
+      title={DNA squence classification with Compressors},
+      author={Ozan, Sükrü},
+      journal={Pattern Recognition Letters},
+      volume={378},
+      pages={686--707},
+      year={2019},
+      publisher={Elsevier}
+    }
 
 
 
