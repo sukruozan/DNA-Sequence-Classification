@@ -1,8 +1,7 @@
 # Project Name: DNA Sequence Classification
 
 ## Overview
-This is a . It's designed to be easy to use, yet powerful and flexible.
-
+Recent studies in DNA sequence classification have leveraged sophisticated machine learning techniques, achieving notable accuracy in categorizing complex genomic data. Methods such as k-mer counting have proven effective in distinguishing sequences from varied species like chimpanzees, dogs, and humans. These methods have been used widely in the latest literaure. However, these approaches often demand extensive computational resources. Our study introduces a novel adaptation of Jiang et al.'s compressor-based, parameter-free classification method, specifically tailored for DNA sequence analysis. This approach not only aligns with the current state-of-the-art in terms of accuracy but also offers a more resource-efficient alternative to traditional machine learning methods. A list of different algorithms was used respectively and  our results demonstrate the proposed methods' comparable effectiveness in classifying DNA sequences. 
 ## Quick Start
 ```bash
 git clone https://github.com/sukruozan/dna-sequence-classification.git
@@ -102,7 +101,6 @@ To cite this work in your publications, use the following BibTeX entry:
     }
 
 
-
 ## References
 1. Bentley, J. L., Sleator, D. D., Tarjan, R. E., & Wei, V. K. (1986). "A locally adaptive data compression scheme." Communications of the ACM, 29(4), 320–330. [DOI](http://dx.doi.org/10.1145/5684.5688)
 2. Burrows, M. (1994). "A block-sorting lossless data compression algorithm." SRS Research Report, 124. 
@@ -117,5 +115,3 @@ To cite this work in your publications, use the following BibTeX entry:
 11. Ozan, S. (2023). "DNA Sequence Classification." [GitHub Repository](https://github.com/sukruozan/DNA-Sequence-Classification)
 12. Singh, N. (2023). "Demystify DNA Sequencing with Machine Learning." [Kaggle Notebook](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
 13. Singh, N. (2023). "DNA Sequence Dataset." [Kaggle Dataset](https://www.kaggle.com/datasets/nageshsingh/dna-sequence-dataset)
-
-You can add these formatted references directly to your `README.md` file under a "References" section.
