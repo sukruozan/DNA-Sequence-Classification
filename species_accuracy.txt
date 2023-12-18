@@ -124,3 +124,255 @@ accuracy = 0.988
 precision = 0.989 
 recall = 0.988 
 f1 = 0.988
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test DNA sequence
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test DNA sequence
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test DNA sequence
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: gzip
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 0.997 
+precision = 0.997 
+recall = 0.997 
+f1 = 0.997
+Compression algorithm: gzip
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.944 
+precision = 0.945 
+recall = 0.944 
+f1 = 0.944
+Compression algorithm: gzip
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.988 
+precision = 0.989 
+recall = 0.988 
+f1 = 0.988
+Compression algorithm: snappy
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: snappy
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.943 
+precision = 0.944 
+recall = 0.943 
+f1 = 0.943
+Compression algorithm: snappy
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.744 
+precision = 0.748 
+recall = 0.744 
+f1 = 0.745
+Compression algorithm: brotli
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: brotli
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.947 
+precision = 0.950 
+recall = 0.947 
+f1 = 0.948
+Compression algorithm: brotli
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: lz4
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 0.997 
+precision = 0.997 
+recall = 0.997 
+f1 = 0.997
+Compression algorithm: lz4
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.944 
+precision = 0.946 
+recall = 0.944 
+f1 = 0.944
+Compression algorithm: lz4
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.817 
+precision = 0.829 
+recall = 0.817 
+f1 = 0.819
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 0.994 
+precision = 0.994 
+recall = 0.994 
+f1 = 0.994
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.900 
+precision = 0.909 
+recall = 0.900 
+f1 = 0.901
+Compression algorithm: zstandard
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.963 
+precision = 0.967 
+recall = 0.963 
+f1 = 0.963
+Compression algorithm: bz2
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 0.985 
+precision = 0.985 
+recall = 0.985 
+f1 = 0.985
+Compression algorithm: bz2
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.893 
+precision = 0.894 
+recall = 0.893 
+f1 = 0.893
+Compression algorithm: bz2
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.963 
+precision = 0.966 
+recall = 0.963 
+f1 = 0.964
+Compression algorithm: lzma
+Confusion matrix for predictions on 'chimp' test sequences
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+Compression algorithm: lzma
+Confusion matrix for predictions on 'human' test sequences
+accuracy = 0.936 
+precision = 0.937 
+recall = 0.936 
+f1 = 0.936
+Compression algorithm: lzma
+Confusion matrix for predictions on 'dog' test sequences
+accuracy = 0.988 
+precision = 0.989 
+recall = 0.988 
+f1 = 0.988
