@@ -93,11 +93,11 @@ To cite this work in your publications, use the following BibTeX entry:
     @article{ozan2024,
       title={DNA squence classification with Compressors},
       author={Ozan, Sükrü},
-      journal={Pattern Recognition Letters},
-      volume={378},
-      pages={686--707},
-      year={2019},
-      publisher={Elsevier}
+      journal={},
+      volume={},
+      pages={},
+      year={2024},
+      publisher={}
     }
 
 
