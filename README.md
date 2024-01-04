@@ -81,7 +81,7 @@ Confusion Matrix - All Species | Confusion Matrix - Human | Confusion Matrix - C
 
 ## K-Mer distribution in Class 6 sequences of Human genome
 
-<img src="./dataset/BarChartAnimation.gif" width="480" />
+<img src="./dataset/BarChartAnimation.gif" width="720" />
 
 
 ## Support
