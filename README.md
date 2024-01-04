@@ -102,16 +102,21 @@ To cite this work in your publications, use the following BibTeX entry:
 
 
 ## References
-1. Bentley, J. L., Sleator, D. D., Tarjan, R. E., & Wei, V. K. (1986). "A locally adaptive data compression scheme." Communications of the ACM, 29(4), 320–330. [DOI](http://dx.doi.org/10.1145/5684.5688)
-2. Burrows, M. (1994). "A block-sorting lossless data compression algorithm." SRS Research Report, 124. 
-3. Huffman, D. (1952). "A Method for the Construction of Minimum-Redundancy Codes." Proceedings of the IRE, 40(9), 1098–1101. [DOI](http://dx.doi.org/10.1109/JRPROC.1952.273898)
-4. Ziv, J., & Lempel, A. (1977). "A universal algorithm for sequential data compression." IEEE Transactions on Information Theory, 23(3), 337-343. [DOI](10.1109/TIT.1977.1055714)
-5. Alberts, B. (2014). "Molecular biology of the cell." 6th ed. New York, NY: Garland Publishing.
-6. Li, M., Chen, X., Li, X., Ma, B., & Vitányi, P. M. B. (2004). "The similarity metric." IEEE Transactions on Information Theory, 50(12), 3250–3264. [DOI](https://doi.org/10.1109/TIT.2004.838101)
-7. Jiang, Z., Yang, M., Tsirlin, M., Tang, R., Dai, Y., & Lin, J. (2023). "Low-Resource Text Classification: A Parameter-Free Classification Method with Compressors." Findings of the Association for Computational Linguistics: ACL 2023, Toronto, Canada. [Link](https://aclanthology.org/2023.findings-acl.426)
-8. Juneja, S., Dhankhar, A., Juneja, A., & Bali, S. (2022). "An Approach to DNA Sequence Classification Through Machine Learning: DNA Sequencing, K Mer Counting, Thresholding, Sequence Analysis." International Journal of Reliable and Quality E-Healthcare, 11(2), 1–15. [DOI](http://dx.doi.org/10.4018/ijrqeh.299963)
-9. Orozco-Arias, S., Candamil-Cortés, M. S., Jaimes, P. A., Piña, J. S., Tabares-Soto, R., Guyot, R., & Isaza, G. (2021). "K-mer-based machine learning method to classify LTR-retrotransposons in plant genomes." PeerJ, 9, e11456. [DOI](http://dx.doi.org/10.7717/peerj.11456)
-10. Sarkar, B. K., Sharma, A. R., Bhattacharya, M., Sharma, G., Lee, S.-S., & Chakraborty, C. (2021). "Determination of k-mer density in a DNA sequence and subsequent cluster formation algorithm based on the application of electronic filter." Scientific Reports, 11(1). [DOI](http://dx.doi.org/10.1038/s41598-021-93154-3)
-11. Ozan, S. (2023). "DNA Sequence Classification." [GitHub Repository](https://github.com/sukruozan/DNA-Sequence-Classification)
-12. Singh, N. (2023). "Demystify DNA Sequencing with Machine Learning." [Kaggle Notebook](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
-13. Singh, N. (2023). "DNA Sequence Dataset." [Kaggle Dataset](https://www.kaggle.com/datasets/nageshsingh/dna-sequence-dataset)
+1. Jaddi, N. S., & Saniee Abadeh, M. (2022). "Cell separation algorithm with enhanced search behaviour in miRNA feature selection for cancer diagnosis." Information Systems, 104, 101906. [DOI](http://dx.doi.org/10.1016/j.is.2021.101906)
+2. Khan, S., Khan, M., Iqbal, N., Li, M., & Khan, D. M. (2020). "Spark-Based Parallel Deep Neural Network Model for Classification of Large Scale RNAs into piRNAs and Non-piRNAs." IEEE Access, 8, 136978–136991. [DOI](http://dx.doi.org/10.1109/ACCESS.2020.3011508)
+3. Yagin, F. H., et al. (2023). "Explainable artificial intelligence model for identifying COVID-19 gene biomarkers." Computers in Biology and Medicine, 154, 106619. [DOI](https://doi.org/10.1016/j.compbiomed.2023.106619)
+4. Wen, J., et al. (2019). "A classification model for lncRNA and mRNA based on k-mers and a convolutional neural network." BMC Bioinformatics, 20(1). [DOI](http://dx.doi.org/10.1186/s12859-019-3039-3)
+5. Millán Arias, P., et al. (2022). "DeLUCS: Deep learning for unsupervised clustering of DNA sequences." PLOS ONE, 17(1), e0261531. [DOI](http://dx.doi.org/10.1371/journal.pone.0261531)
+6. Bentley, J. L., et al. (1986). "A locally adaptive data compression scheme." Communications of the ACM, 29(4), 320–330. [DOI](http://dx.doi.org/10.1145/5684.5688)
+7. Burrows, M. (1994). "A block-sorting lossless data compression algorithm." SRS Research Report, 124.
+8. Huffman, D. (1952). "A Method for the Construction of Minimum-Redundancy Codes." Proceedings of the IRE, 40(9), 1098–1101. [DOI](http://dx.doi.org/10.1109/JRPROC.1952.273898)
+9. Ziv, J., & Lempel, A. (1977). "A universal algorithm for sequential data compression." IEEE Transactions on Information Theory, 23(3), 337-343. [DOI](10.1109/TIT.1977.1055714)
+10. Alberts, B. (2014). "Molecular biology of the cell." 6th ed. New York, NY: Garland Publishing.
+11. Li, M., et al. (2004). "The similarity metric." IEEE Transactions on Information Theory, 50(12), 3250–3264. [DOI](https://doi.org/10.1109/TIT.2004.838101)
+12. Jiang, Z., et al. (2023). "Low-Resource Text Classification: A Parameter-Free Classification Method with Compressors." Findings of the Association for Computational Linguistics: ACL 2023, Toronto, Canada. [Link](https://aclanthology.org/2023.findings-acl.426)
+13. Juneja, S., et al. (2022). "An Approach to DNA Sequence Classification Through Machine Learning: DNA Sequencing, K Mer Counting, Thresholding, Sequence Analysis." International Journal of Reliable and Quality E-Healthcare, 11(2), 1–15. [DOI](http://dx.doi.org/10.4018/ijrqeh.299963)
+14. Orozco-Arias, S., et al. (2021). "K-mer-based machine learning method to classify LTR-retrotransposons in plant genomes." PeerJ, 9, e11456. [DOI](http://dx.doi.org/10.7717/peerj.11456)
+15. Sarkar, B. K., et al. (2021). "Determination of k-mer density in a DNA sequence and subsequent cluster formation algorithm based on the application of electronic filter." Scientific Reports, 11(1). [DOI](http://dx.doi.org/10.
+16. Ozan, S. (2023). "DNA Sequence Classification." [GitHub Repository](https://github.com/sukruozan/DNA-Sequence-Classification)
+17. Singh, N. (2023). "Demystify DNA Sequencing with Machine Learning." [Kaggle Notebook](https://www.kaggle.com/code/nageshsingh/demystify-dna-sequencing-with-machine-learning/notebook)
+18. Singh, N. (2023). "DNA Sequence Dataset." [Kaggle Dataset](https://www.kaggle.com/datasets/nageshsingh/dna-sequence-dataset)
