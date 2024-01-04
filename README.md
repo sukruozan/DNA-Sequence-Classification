@@ -79,6 +79,11 @@ Confusion Matrix - All Species | Confusion Matrix - Human | Confusion Matrix - C
 
 *Confusion matrices for subspecies classifications: Human, Chimpanzee, and Dog DNA. These matrices detail the classifier's accuracy for each subspecies, highlighting the precision in distinguishing between these specific genomic sequences. The outcomes from the experiments performed by using `brotli` compressor is selected for depiction.*
 
+## K-Mer distribution in Class 6 sequences of Human genome
+
+[![K-Mer distribution in Class 6 sequences of Human genome with changing K number](./dataset/BarChartAnimationCover.png)](./dataset/BarChartAnimation.mp4)
+
+
 ## Support
 If you need help or have a question, raise an issue or contact me at sukruozan@gmail.com.
 
