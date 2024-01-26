@@ -95,15 +95,14 @@ To cite this work in your publications, use the following BibTeX entry:
 
 ## Citation
 
-    @article{ozan2024,
-      title={DNA squence classification with Compressors},
-      author={Ozan, Sükrü},
-      journal={},
-      volume={},
-      pages={},
+@misc{ozan2024dna,
+      title={DNA Sequence Classification with Compressors}, 
+      author={Şükrü Ozan},
       year={2024},
-      publisher={}
-    }
+      eprint={2401.14025},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.GN}
+}
 
 
 ## References
