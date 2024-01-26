@@ -102,17 +102,8 @@ To cite this work in your publications, use the following BibTeX entry:
             year={2024},
             eprint={2401.14025},
             archivePrefix={arXiv},
-            primaryClass={q-bio.GN}
-      }
-      
-      @article{ozan2024,
-      title={DNA squence classification with Compressors},
-      author={Ozan, Sükrü},
-      journal={},
-      volume={},
-      pages={},
-      year={2024},
-      publisher={}
+            primaryClass={q-bio.GN},
+            doi={https://doi.org/10.48550/arXiv.2106.10899}
       }
 
 
