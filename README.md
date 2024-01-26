@@ -95,7 +95,7 @@ To cite this work in your publications, use the following BibTeX entry:
 
 ## Citation
 
-@misc{ozan2024dna,
+@article{ozan2024dna,
       title={DNA Sequence Classification with Compressors}, 
       author={Şükrü Ozan},
       year={2024},
