@@ -89,7 +89,7 @@ If you need help or have a question, raise an issue or contact me at sukruozan@g
 
 ## Contributors
 - [Sukru Ozan](https://sukruozan.com)
-
+- [Download the manuscript from arXiv](https://arxiv.org/pdf/2401.14025.pdf)
 To cite this work in your publications, use the following BibTeX entry:
 
 
