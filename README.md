@@ -103,6 +103,7 @@ To cite this work in your publications, use the following BibTeX entry:
             eprint={2401.14025},
             archivePrefix={arXiv},
             primaryClass={q-bio.GN},
+            doi={https://doi.org/10.48550/arXiv.2401.14025},
             }
 
 
